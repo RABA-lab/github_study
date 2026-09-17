@@ -1,4 +1,6 @@
 def main():
+    print("PR②の変更")
+
     print("PR①の変更")
     
 
