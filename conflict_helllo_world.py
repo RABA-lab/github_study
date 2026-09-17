@@ -1,5 +1,5 @@
 def main():
-    print("Hello World")
+    print("PR②の変更")
 
 
 if __name__ == "__main__":
